@@ -133,6 +133,7 @@ If HeX Peeker helps you out, drop a ⭐ on GitHub! It keeps the project alive an
 ## 📜 License
 
 HeX Peeker is licensed under the MIT License. Feel free to use, modify, and share!
+[LICENSE]
 
 ---
 
