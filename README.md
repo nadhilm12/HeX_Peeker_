@@ -17,8 +17,9 @@ HeX Peeker is your go-to tool for inspecting binary and hex data with ease. Whet
 
 ### ✨ Features
 
+- 📄=📄 **2 Document Comparison** — Compare 2 Document with Higlight marking, to see the difference.
 - 🔍 **Visual Hex Analysis** — Dive into binary files with a powerful, interactive hex viewer.
-- 🎨 **Modern GUI** — Smooth, responsive interface with **light/dark themes** using PyQt6 (v6.9.1).
+- 🎨 **Modern GUI** — Smooth, responsive interface with **light/dark themes** using PyQt6 (v6.9.1), drag-drop coming soon!.
 - 🧩 **Clean Codebase** — Modular architecture for easy maintenance and extension.
 - ⚡ **Performance** — Optimized to handle large binary files without breaking a sweat.
 - 🧪 **Tested** — Comprehensive unit tests with `pytest` for reliability.
