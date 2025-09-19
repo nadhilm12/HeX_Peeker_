@@ -1,5 +1,5 @@
 <div align="center">
-   
+![HeX Peeker Icon](assets/ICON.png)
 # HeX Peeker 🔍  
 *A sleek Python app to peek into binary and hexadecimal data with a modern, intuitive GUI.*  
 **Built for developers, reverse engineers, and curious minds.**
