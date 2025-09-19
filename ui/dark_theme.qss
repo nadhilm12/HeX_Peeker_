@@ -1,0 +1,150 @@
+/*
+ * Dark Theme for Hex Peeker - QSS Stylesheet
+ */
+
+QWidget {
+    background-color: #2B2B2B;
+    color: #BBBBBB;
+    border: 0px;
+}
+
+QMainWindow {
+    background-color: #2B2B2B;
+}
+
+/* Buttons */
+QPushButton {
+    background-color: #4a4a4a;
+    color: #BBBBBB;
+    border: 1px solid #555555;
+    padding: 5px 10px;
+    border-radius: 4px;
+}
+
+QPushButton:hover {
+    background-color: #5a5a5a;
+}
+
+QPushButton:pressed {
+    background-color: #3a3a3a;
+    border: 1px solid #666666;
+}
+
+QPushButton:disabled {
+    background-color: #3C3F41;
+    color: #777777;
+    border-color: #444444;
+}
+
+/* Input Fields */
+QLineEdit, QTextEdit {
+    background-color: #3C3F41;
+    color: #BBBBBB;
+    border: 1px solid #555555;
+    border-radius: 4px;
+    padding: 4px;
+}
+
+QLineEdit:read-only {
+    background-color: #333333;
+}
+
+/* ComboBox */
+QComboBox {
+    background-color: #4a4a4a;
+    border: 1px solid #555555;
+    border-radius: 4px;
+    padding: 3px;
+}
+
+QComboBox::drop-down {
+    border: 0px;
+}
+
+QComboBox::down-arrow {
+    image: url(no-image.png); /* Fallback, can be improved with a real icon */
+}
+
+QComboBox QAbstractItemView {
+    background-color: #3C3F41;
+    border: 1px solid #555555;
+    selection-background-color: #4A90E2;
+}
+
+/* Table and Hex Viewer */
+QTableWidget {
+    background-color: #3C3F41;
+    gridline-color: #444444;
+}
+
+QHeaderView::section {
+    background-color: #4a4a4a;
+    color: #BBBBBB;
+    padding: 4px;
+    border: 1px solid #555555;
+}
+
+/* ScrollBars */
+QScrollBar:vertical {
+    background: #3C3F41;
+    width: 12px;
+    margin: 0px;
+}
+
+QScrollBar::handle:vertical {
+    background: #5a5a5a;
+    min-height: 20px;
+    border-radius: 6px;
+}
+
+QScrollBar::add-line:vertical, QScrollBar::sub-line:vertical {
+    height: 0px;
+}
+
+QScrollBar:horizontal {
+    background: #3C3F41;
+    height: 12px;
+    margin: 0px;
+}
+
+QScrollBar::handle:horizontal {
+    background: #5a5a5a;
+    min-width: 20px;
+    border-radius: 6px;
+}
+
+QScrollBar::add-line:horizontal, QScrollBar::sub-line:horizontal {
+    width: 0px;
+}
+
+/* ProgressBar */
+QProgressBar {
+    border: 1px solid #555555;
+    border-radius: 4px;
+    text-align: center;
+    background-color: #3C3F41;
+    color: #BBBBBB;
+}
+
+QProgressBar::chunk {
+    background-color: #4A90E2;
+    border-radius: 3px;
+}
+
+/* StatusBar */
+QStatusBar {
+    background-color: #4a4a4a;
+}
+
+/* Splitter */
+QSplitter::handle {
+    background: #4a4a4a;
+}
+
+QSplitter::handle:horizontal {
+    width: 1px;
+}
+
+QSplitter::handle:vertical {
+    height: 1px;
+}
