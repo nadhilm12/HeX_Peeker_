@@ -13,7 +13,7 @@
 
 ## 🚀 Why HeX Peeker?
 
-HeX Peeker is your go-to tool for inspecting binary and hex data with ease. Whether you're debugging binaries, exploring files, or just satisfying curiosity — this app delivers a **clean, fast, and modular experience**.
+HeX Peeker is your go-to tool for inspecting binary and hex data with ease. Whether you're debugging binaries, exploring files, or just satisfying curiosity — this app delivers a **fast analyze experience, clean, easy to use, and modular experience**.
 
 ### ✨ Features
 
