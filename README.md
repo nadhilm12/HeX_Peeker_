@@ -35,7 +35,7 @@ HeX Peeker is your go-to tool for inspecting binary and hex data with ease. Whet
 
 1. **Clone the repo**:
    ```bash
-   git clone https://github.com/062002104026/HeX_Peeker.git
+   git clone https://github.com/nadhilm12/HeX_Peeker.git
    cd HeX_Peeker
    ```
 
