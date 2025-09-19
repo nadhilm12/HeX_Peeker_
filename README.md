@@ -1,6 +1,6 @@
 <div align="center">
 
-![HeX Peeker Icon](assets/ICON.png)
+<img src="assets/ICON.png" alt="HeX Peeker Icon" width="200"/>
 
 # HeX Peeker 🔎
 
