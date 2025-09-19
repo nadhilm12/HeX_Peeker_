@@ -6,6 +6,8 @@
 
 > ✨ **v3.3 Beta** — Data Export ready • Under active development • MIT Licensed
 
+[![Version](https://img.shields.io/badge/Version-v3.3%20Beta-yellow)](https://github.com/nadhilm12/HeX_Peeker/releases)
+
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![PyQt6](https://img.shields.io/badge/PyQt6-v6.9.1-orange)](https://www.riverbankcomputing.com/software/pyqt/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
