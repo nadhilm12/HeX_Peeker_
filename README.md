@@ -82,8 +82,6 @@ Launch the app:
 ```bash
 python main.pyw
 ```
-or just double click main.pyw
-
 
 > 💡 **Pro Tip**: Double-click `main.pyw` on Windows for quick launch!
 
