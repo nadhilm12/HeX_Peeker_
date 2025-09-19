@@ -1,3 +1,5 @@
+<div align="center">
+   
 # HeX Peeker 🔍  
 *A sleek Python app to peek into binary and hexadecimal data with a modern, intuitive GUI.*  
 **Built for developers, reverse engineers, and curious minds.**
@@ -9,6 +11,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Contributions Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/nadhilm12/HeX_Peeker/issues)
 
+</div>
 ---
 
 ## 🚀 Why HeX Peeker?
@@ -159,6 +162,7 @@ It keeps the project alive and motivates us to keep building cool stuff.
 
 HeX Peeker is licensed under the **MIT License** — feel free to use, modify, and share!
 
+<div align="center">
 <details>
 <summary>📜 MIT License (click to expand)</summary>
 
@@ -183,7 +187,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 </details>
-
+</div>
 ---
 
 > **Built with 💻 and ☕ — by curious minds, for curious minds.**  
