@@ -143,7 +143,7 @@ We ❤️ contributors! Whether you’re fixing bugs, improving dark mode contra
 - Add **new export formats** (JSON, HTML, etc.)
 - Write **more unit tests** for edge cases
 
-> 💬 Open an [Issue](https://github.com/nadhilm12/HeX_Peeker/issues) or submit a PR — we’ll buy you a coffee ☕ (figuratively... for now).
+> 💬 Open an [Issue]((https://github.com/nadhilm12/HeX_Peeker_/issues)) or submit a PR — we’ll buy you a coffee ☕ (figuratively... for now).
 
 ---
 
